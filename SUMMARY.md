@@ -18,5 +18,7 @@ This is the TOC on the sidebar.  Probably shows up in a PDF version too.
 * [Maintaining Momentum](05-momentum.md)
   * [Events](05.1-events.md)
   * [Project Management](05.2-project_management.md)
-* [Further Reading](06-reading.md)
+* [Resources](06-reading.md)
+  * [De-Jargonizing Activity](de-jargonizing_activity.md)
+  * [Facilitator Tips & Tricks](facilitator_tips_&_tricks.md)
 * [Edit this Book](CONTRIBUTING.md)
