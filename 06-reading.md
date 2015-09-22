@@ -23,3 +23,6 @@ On communicating open
 
 Study group handbook
 * http://mozillascience.github.io/studyGroupHandbook/
+
+On good first bugs/issues
+* https://twitter.com/yourfirstpr
