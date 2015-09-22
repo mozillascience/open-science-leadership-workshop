@@ -1,4 +1,4 @@
-# Further Reading
+# Resources
 
 On working open
 * https://wiki.mozilla.org/Working_open
