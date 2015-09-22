@@ -20,3 +20,6 @@ On community
 
 On communicating open
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+On cats
+* https://en.wikipedia.org/wiki/Cat
