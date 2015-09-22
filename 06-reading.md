@@ -21,8 +21,9 @@ On community
 On communicating open
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-Study group handbook
+Study group handbook and other resources
 * http://mozillascience.github.io/studyGroupHandbook/
+* https://github.com/mozillascience/studyGroup
 
 On good first bugs/issues
 * https://twitter.com/yourfirstpr
