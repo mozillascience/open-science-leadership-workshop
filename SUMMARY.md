@@ -6,7 +6,7 @@ This is the TOC on the sidebar.  Probably shows up in a PDF version too.
 * [Project Setup](02-setup.md)
   * [Lowering Barriers](02.1-newcomers.md)
   * [Roadmapping](02.2-roadmap.md)
-  * [Legal](02.3-legal.md)
+  * [Open Source Licenses](02.3-legal.md)
   * [Project Checklist](02.4-checklist.md)
 * [Working with Contributors](03-contributors.md)
   * [Mechanics of Contributing](03.1-mechanics.md)
