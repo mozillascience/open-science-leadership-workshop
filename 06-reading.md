@@ -17,3 +17,6 @@ On open source
 
 On community
 * https://wiki.mozilla.org/Community
+
+On communicating open
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
