@@ -1,5 +1,7 @@
 # ['Working Open' Project Guide](http://mozillascience.github.io/leadership-training/)
 
+[![Join the chat at https://gitter.im/mozillascience/open-science-leadership-workshop](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mozillascience/open-science-leadership-workshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ###Hello There!
 Welcome to Mozilla Science Lab's Working Open Guide. This guide was created by MSL's core team, along with our broader community, to introduce you to "working open" and provide a framework and resources for running sucessful open science projects. **In a nutshell, working openly enables a community of skilled contributors to collaborate and build together, making better, more useful products and research. Sounds great, right?**
 
