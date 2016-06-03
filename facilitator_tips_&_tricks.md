@@ -10,7 +10,7 @@ The success of any event lies with the facilitator — it’s all in your hands!
 
 1. Know your audience! If possible, communicate with participants in advance to get a sense of their backgrounds, skill levels, and interests.
 2. Make sure you prepare thorougly in advance — organization is key! 
-3. Define clear goals for the session; these will help you select your materials and activities.
+3. Define clear objectives-- concrete things you want to accomplish, that you could test at the end of the session-- these will help you select your materials and activities. Examples: Know how to make a pull request in GitHub, defend against challenges to Open Science. 
 4. Don’t overload your session; give participants enough time to process materials/activities.
 5. If possible, send out an agenda so participants know what to expect.
 6. Aim to get a good gender balance in the room so everyone feels comfortable speaking. One male for every two females is a good guideline.
