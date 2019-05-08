@@ -13,7 +13,7 @@ The success of any event lies with the facilitator — it’s all in your hands!
 3. Define clear objectives-- concrete things you want to accomplish, that you could test at the end of the session-- these will help you select your materials and activities. Examples: Know how to make a pull request in GitHub, defend against challenges to Open Science. 
 4. Don’t overload your session; give participants enough time to process materials/activities.
 5. If possible, send out an agenda so participants know what to expect.
-6. Aim to get a good gender balance in the room so everyone feels comfortable speaking. One male for every two females is a good guideline.
+6. Aim to get a good gender balance in the room so everyone feels comfortable speaking. 
 7. Build in some free time (breaks) for participants to talk and connect with each other
 
 ###On-site, before the event
